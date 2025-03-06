@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/as-estudio-creativo/static/css/main.4a1c0314.css",
+    "main.js": "/as-estudio-creativo/static/js/main.c6f2b07b.js",
+    "static/js/787.26060d52.chunk.js": "/as-estudio-creativo/static/js/787.26060d52.chunk.js",
+    "static/media/logistica.png": "/as-estudio-creativo/static/media/logistica.5d3943779283b5a01a5b.png",
+    "static/media/mobiliario.png": "/as-estudio-creativo/static/media/mobiliario.f28867a163b3f3cb989f.png",
+    "static/media/evento.png": "/as-estudio-creativo/static/media/evento.617cb2bfe0d64db01c9d.png",
+    "static/media/impresiones.png": "/as-estudio-creativo/static/media/impresiones.d5ab50e45210fec4496e.png",
+    "static/media/stand.png": "/as-estudio-creativo/static/media/stand.7d122530b0296ef51d5d.png",
+    "static/media/vidriera.png": "/as-estudio-creativo/static/media/vidriera.596079258362927baa95.png",
+    "index.html": "/as-estudio-creativo/index.html",
+    "main.4a1c0314.css.map": "/as-estudio-creativo/static/css/main.4a1c0314.css.map",
+    "main.c6f2b07b.js.map": "/as-estudio-creativo/static/js/main.c6f2b07b.js.map",
+    "787.26060d52.chunk.js.map": "/as-estudio-creativo/static/js/787.26060d52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a1c0314.css",
+    "static/js/main.c6f2b07b.js"
+  ]
+}
