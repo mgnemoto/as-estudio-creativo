@@ -1,0 +1,49 @@
+.home-page{
+    height: 100vh;
+    display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.home-page a{
+    text-decoration: none;
+    width: 25%;
+}
+
+.home{
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+    color: white;
+    /* background-color: #dc8665; */
+    background-color: #0175a7;
+    padding: 3%;
+    border-radius: 8px;
+    transition-property: transform;
+    transition-duration: .3s;
+    cursor: pointer;
+    box-shadow: 5px 5px 8px 4px rgba(0, 0, 0, 0.5);
+}
+
+.home:active{
+    transform: scale(0.9);
+}
+.home-title{
+    margin-bottom: 3%;
+    font-size: 22px;
+}
+.home-description{
+    text-align: center;
+    font-size: 18px;
+}
+
+@media (width <= 480px){
+    .home-page a{
+        width: 80%;
+    }
+}
+
+@media (480px <width <= 1080px){
+    .home-page a{
+        width: 60%;
+    }
+}

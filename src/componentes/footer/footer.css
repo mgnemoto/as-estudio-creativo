@@ -1,0 +1,25 @@
+.credit{
+    display: flex;
+    justify-content: end;
+    padding: 1%;
+    background-color: #0175a7;
+}
+
+.credit p{
+    margin-bottom: 0;
+    margin-right: 1%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.credit a{
+    width: 2%;
+    display: flex;
+        justify-content: center;
+}
+
+.footer-icon{
+    width: 100%;
+    fill: white;
+}

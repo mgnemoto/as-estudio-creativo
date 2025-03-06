@@ -1,0 +1,21 @@
+h1{
+    color: white;
+    text-align: center;
+}
+
+.gallery-page{
+    display: flex;
+        justify-content: center;
+}
+
+
+body{
+    /* background-image: linear-gradient(#ffb284,#f5cec7); */
+    background-color: #009FE3;
+}
+
+@media(width<=800px){
+    .gallery-page{
+        flex-direction: column;
+    }
+}
